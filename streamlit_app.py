@@ -2,4 +2,4 @@ import streamlit as st
 
 st.title("เว็บไซต์แรกของฉัน")
 
-st.write("การ์ตูดน่าตูด")
+st.write("การ์ตูนน่าตูด")
